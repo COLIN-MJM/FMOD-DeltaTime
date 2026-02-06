@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="Workspace" id="{e567e1fb-c1fb-4481-9348-e76a95a53a1b}">
+		<property name="builtBanksOutputDirectory">
+			<value>../Projet-DeltaTIme-main/Assets/FMOD Build</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{2666696d-65ae-4703-b2bd-c2c569d193f5}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{a3b5bb9c-a714-4627-8dcc-16c9ebbf12c3}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{54109594-99d3-4729-bee8-a1add7b278af}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{d73c0d67-61ee-4a1e-96bc-2170303df4b5}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{017146cd-0e84-4441-82d2-e2c40d5c8891}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{ae6cdbbf-96b0-447c-a4ae-762b328d4ec7}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{acff4f8f-90ec-4780-9a72-56fae993b36c}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{5e2ced4e-9b09-404e-8df3-a067a52e77a7}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{06ab6835-c5a7-45f4-91d4-831885926cbf}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{3f26405f-1226-43d5-9e77-c83e3b788f6d}</destination>
+		</relationship>
+	</object>
+</objects>
