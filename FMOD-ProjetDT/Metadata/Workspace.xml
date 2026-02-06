@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Workspace" id="{e567e1fb-c1fb-4481-9348-e76a95a53a1b}">
 		<property name="builtBanksOutputDirectory">
-			<value>../Projet-DeltaTIme-main/Assets/FMOD Build</value>
+			<value>../../Projet-DeltaTIme-main/Assets/FMOD Build</value>
 		</property>
 		<relationship name="masterEventFolder">
 			<destination>{2666696d-65ae-4703-b2bd-c2c569d193f5}</destination>
