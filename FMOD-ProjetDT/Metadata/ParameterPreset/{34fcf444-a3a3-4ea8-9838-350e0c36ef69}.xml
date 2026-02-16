@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{34fcf444-a3a3-4ea8-9838-350e0c36ef69}">
+		<property name="name">
+			<value>P2Sound</value>
+		</property>
+		<relationship name="folder">
+			<destination>{d73c0d67-61ee-4a1e-96bc-2170303df4b5}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{85c47185-afc4-4bfc-a2b6-1c48173690ed}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{85c47185-afc4-4bfc-a2b6-1c48173690ed}">
+		<property name="maximum">
+			<value>16</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
