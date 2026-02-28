@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{d10348ce-5803-48e4-85bd-ac4ef32d1fc2}">
 		<property name="assetPath">
-			<value>Measure1/DongP2.wav</value>
+			<value>Placeholders/Measure1/DongP2.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
