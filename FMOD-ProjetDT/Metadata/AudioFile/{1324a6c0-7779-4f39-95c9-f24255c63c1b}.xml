@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{1324a6c0-7779-4f39-95c9-f24255c63c1b}">
 		<property name="assetPath">
-			<value>Placeholders/Measure1/BassP1.wav</value>
+			<value>BeforeReboot/Placeholders/Measure1/BassP1.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

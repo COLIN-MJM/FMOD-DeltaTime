@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{97b3094a-2359-499f-9133-e1e9cfec2702}">
 		<property name="assetPath">
-			<value>Placeholders/kick01.ogg</value>
+			<value>BeforeReboot/Placeholders/kick01.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>22.0499992</value>

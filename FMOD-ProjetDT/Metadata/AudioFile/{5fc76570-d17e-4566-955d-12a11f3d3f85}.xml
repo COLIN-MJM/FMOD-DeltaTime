@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{5fc76570-d17e-4566-955d-12a11f3d3f85}">
 		<property name="assetPath">
-			<value>Placeholders/X Mathias.mp3</value>
+			<value>BeforeReboot/Placeholders/X Mathias.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

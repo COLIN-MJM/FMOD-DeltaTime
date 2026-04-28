@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{49ac78fb-8d94-457d-a180-b72403b7fb6d}">
+		<property name="assetPath">
+			<value>BeforeReboot/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{acff4f8f-90ec-4780-9a72-56fae993b36c}</destination>
+		</relationship>
+	</object>
+</objects>

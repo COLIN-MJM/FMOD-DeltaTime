@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{c8c47500-8406-434a-9da7-2003fe30639d}">
+		<property name="assetPath">
+			<value>BeforeReboot/LevelsFB/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{acff4f8f-90ec-4780-9a72-56fae993b36c}</destination>
+		</relationship>
+	</object>
+</objects>

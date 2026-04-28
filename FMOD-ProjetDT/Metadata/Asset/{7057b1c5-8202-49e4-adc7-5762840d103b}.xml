@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="EncodableAsset" id="{7057b1c5-8202-49e4-adc7-5762840d103b}">
 		<property name="assetPath">
-			<value>Placeholders/Measure1/</value>
+			<value>BeforeReboot/Placeholders/Measure1/</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{acff4f8f-90ec-4780-9a72-56fae993b36c}</destination>
