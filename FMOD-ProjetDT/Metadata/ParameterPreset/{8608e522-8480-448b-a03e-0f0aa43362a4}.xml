@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{8608e522-8480-448b-a03e-0f0aa43362a4}">
+		<property name="name">
+			<value>PlayersRotating</value>
+		</property>
+		<relationship name="folder">
+			<destination>{d73c0d67-61ee-4a1e-96bc-2170303df4b5}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{827bc397-286c-454c-9cb3-7768c38aeeed}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{827bc397-286c-454c-9cb3-7768c38aeeed}">
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
