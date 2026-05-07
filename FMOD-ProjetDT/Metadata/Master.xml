@@ -27,7 +27,7 @@
 	</object>
 	<object class="CompressorEffect" id="{257dd5e9-8246-4a51-9983-21ea3b935e44}">
 		<property name="threshold">
-			<value>-14.5</value>
+			<value>-14.3999996</value>
 		</property>
 		<property name="gain">
 			<value>-9.5</value>
